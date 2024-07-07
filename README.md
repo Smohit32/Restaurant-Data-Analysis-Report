@@ -23,6 +23,22 @@ Online Delivery Analysis🛵: I investigated trends in online delivery services 
 1 - Determine the percentage of restaurants that offer online delivery.
 2 - Compare the average ratings of restaurants with and without online delivery.
 
+### Level 2
+Task: Restaurant Ratings
+
+1. Analyzed the distribution of aggregate ratings and determined the most commonrating range.
+2.Calculated the average number of votes received by restaurants.
+
+Task: Cuisine Combination
+
+3.Identified the most common combinations of cuisines in the dataset.
+4. Determined if certain cuisine combinations tend to have higher ratings.
+  
+Task: Restaurant Chains
+
+5.Identifed if there are any restaurant chains present in the dataset.
+6.Analyzed the ratings and popularity of different restaurant chains.
+
 ### Tools and Methods Used:
 Python 🐍: Python served as the cornerstone of this project, allowing me to perform data cleaning, analysis, and visualization efficiently.
 Pandas 🐼: I utilized Pandas extensively for data manipulation, filtering, and aggregation tasks.
