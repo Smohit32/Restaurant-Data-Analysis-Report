@@ -1,7 +1,7 @@
 # Restaurant-Data-Analysis-Report
 
 ### Overview
-During my Level 1 internship at Cognifyz Technologies, I conducted an in-depth analysis of restaurant datasets using Python, Pandas, Matplotlib, and Seaborn. Tasks included analyzing top cuisines, city-wise distribution, and price range dynamics. This project honed my data analysis skills and provided practical insights into optimizing business strategies in the restaurant industry.
+During my Level 1 , 2 internship at Cognifyz Technologies, I conducted an in-depth analysis of restaurant datasets using Python, Pandas, Matplotlib, and Seaborn. Tasks included analyzing top cuisines, city-wise distribution, price range dynamics , Restaurant ratings , Cuisine Combination and Restaurant chains. This project honed my data analysis skills and provided practical insights into optimizing business strategies in the restaurant industry.
 
 ### Key Tasks Accomplished:
 
